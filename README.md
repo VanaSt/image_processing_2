@@ -1,5 +1,4 @@
-# image_processing_2
-Matlab - Image Processing
+# image_processing_2__Matlab
 ![alt text](https://github.com/VanaSt/image_processing_2/blob/master/results/1_original.png)
 ![alt text](https://github.com/VanaSt/image_processing_2/blob/master/results/2_grayscale.png)
 ![alt text](https://github.com/VanaSt/image_processing_2/blob/master/results/3_binary.png)
